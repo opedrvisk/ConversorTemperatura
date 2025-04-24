@@ -10,8 +10,14 @@ Conversor de temperatura em celsius para fahrenheit ou kelvin, desenvolvido com 
 
 ## Metódos
 
+Metódo para o controle da conversão.
+
 ![image](https://github.com/user-attachments/assets/39ae8cd0-f053-4c78-a93f-71dd621711d1)
 
+Metódo para o cálculo da temperatura.
+
 ![image](https://github.com/user-attachments/assets/1d346bd1-f23e-4503-a310-b621e5eb689f)
+
+Chamadas no main.
 
 ![image](https://github.com/user-attachments/assets/13ad2896-6af1-4bc5-8581-a8ff10c42ff8)
