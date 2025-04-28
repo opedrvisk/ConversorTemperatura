@@ -2,22 +2,27 @@
 
 Conversor de temperatura em celsius para fahrenheit ou kelvin, desenvolvido com biblioteca swing em java.
 
-![image](https://github.com/user-attachments/assets/d4b6f7ea-0e79-49d9-bea3-92fc564b1280)
+![image](https://github.com/user-attachments/assets/4b36d6dc-4ec8-46d6-b8ab-0e9212f01424)
 
-## Stack utilizada
-
-**Back-end:** Java e biblioteca Swing.
 
 ## Metódos
 
 Metódo para o controle da conversão.
 
-![image](https://github.com/user-attachments/assets/39ae8cd0-f053-4c78-a93f-71dd621711d1)
+![image](https://github.com/user-attachments/assets/009c4553-8a79-4516-9439-06d10ac555c2)
 
 Metódo para o cálculo da temperatura.
 
-![image](https://github.com/user-attachments/assets/1d346bd1-f23e-4503-a310-b621e5eb689f)
+![image](https://github.com/user-attachments/assets/c6e52070-5358-4e02-9fcf-b34ef62ae190)
 
-Chamadas no main.
+Chamadas na classe principal.
 
-![image](https://github.com/user-attachments/assets/13ad2896-6af1-4bc5-8581-a8ff10c42ff8)
+![image](https://github.com/user-attachments/assets/1d4a67db-0ec1-403a-8c96-467cecac8455)
+
+## Funcionamento
+
+![image](https://github.com/user-attachments/assets/191bc6f9-8982-410e-b76c-5feb8adfb79e)
+
+## Stack utilizada
+
+**Back-end:** Java e biblioteca Swing.
