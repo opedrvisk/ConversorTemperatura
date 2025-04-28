@@ -2,8 +2,7 @@
 
 Conversor de temperatura em celsius para fahrenheit ou kelvin, desenvolvido com biblioteca swing em java.
 
-![image](https://github.com/user-attachments/assets/4b36d6dc-4ec8-46d6-b8ab-0e9212f01424)
-
+![image](https://github.com/user-attachments/assets/2e18d6bc-2255-4ab3-8420-1a91c0c8fe54)
 
 ## Metódos
 
